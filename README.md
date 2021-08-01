@@ -69,21 +69,23 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=furkanaliunal&theme=jolly&hide_border=true" title="Open in new tab">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=furkanaliunal&theme=jolly&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=furkanaliunal&theme=jolly&hide_border=true" title="Open in new tab">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=furkanaliunal&show_icons=true&theme=jolly&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanaliunal&theme=jolly&langs_count=8&layout=compact&hide_border=true" title="Open in new tab">
       <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanaliunal&theme=jolly&langs_count=8&layout=compact&hide_border=true" />
     </a>
   </div>
   <br>
+  <a href="https://activity-graph.herokuapp.com/graph?username=furkanaliunal&theme=jolly&bg_color=ffccec&hide_border=true" title="Open in new tab">
   <img src="https://activity-graph.herokuapp.com/graph?username=furkanaliunal&theme=jolly&bg_color=ffccec&hide_border=true" width="100%"/>
+  </a>
 </p>
 
 <hr>
