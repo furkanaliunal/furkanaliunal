@@ -30,6 +30,12 @@
   💬 You can ask me anything from <a href="https://github.com/furkanaliunal/furkanaliunal/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: furkanaliuna4@gmail.com">furkanaliuna4@gmail.com</a>
+  <br>
+  <br>
+  <br>
+  💖 I love Minecraft Plugin Development 💖 
+  <br>
+  💎 I will add more repos and informations about me and my projects. I am getting more and more active here! 👏🏻
 </p>
 
 <hr>
